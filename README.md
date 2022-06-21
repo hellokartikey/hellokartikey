@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+I'm Kartikey! I like free software. I'm mostly found on <a href="https://invent.kde.org/hellokartikey">KDE Gitlab</a>. KDE is ❤️.
 
 <!--
 **hellokartikey/hellokartikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
